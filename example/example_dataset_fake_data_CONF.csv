@@ -1,0 +1,9 @@
+﻿time_period,region,age_band,sex,conf_count,conf_total_income
+2022,North,15 - 29,male,15,5400
+2022,North,30 - 64,male,63,62300
+2022,North,15 - 29,female,93,88100
+2022,North,30 - 64,female,54,46800
+2022,South,15 - 29,male,66,11300
+2022,South,30 - 64,male,3,43400
+2022,South,15 - 29,female,57,78100
+2022,South,30 - 64,female,45,7900
