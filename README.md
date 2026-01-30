@@ -24,7 +24,7 @@ Once user parameters are set, the script can be run. The tool saves two files: t
 For more detailed instructions and examples, refer to the header of the script. Included are two example datasets that correspond to the example user parameters in the script.
 
 ## Citation
-Social Investment Agency (2025). SQL code styler. Source code. https://github.com/nz-social-investment-agency/auto_checker
+Social Investment Agency (2025). Auto checker. Source code. https://github.com/nz-social-investment-agency/auto_checker
 
 ## Getting Help
 Enquiries can be sent to info@sia.govt.nz
